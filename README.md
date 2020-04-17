@@ -1,1 +1,1 @@
-# Projet_g-nie_logiciel
+# Projet_génie_logiciel
